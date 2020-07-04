@@ -1,5 +1,5 @@
 {
-  "server_status": "false",
+  "server_status": "true",
   "server_message": "We are migrating to MySQL, we will back ASAP!",
   "database_link": "http://sketchub.in/api/v1/",
   "version": 26,
