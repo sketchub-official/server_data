@@ -2,10 +2,10 @@
   "server_status": "true",
   "server_message": "Server maintenance break for 30 minutes. Please be patient.",
   "database_link": "http://sketchub.in/api/v1/",
-  "version": 29,
+  "version": "30",
   "web_dialog": "false",
   "web_dialog_url": "https://www.sketchub.in/notification_12_feb_2020.html",
-  "update_message": "THIS IS SERVER MAINTAINENCE BREAK FOR NEXT UPDATE",
+  "update_message": "- Bugs Fixed\n- APK installation for Android 10+ removed because it is deprecated method.\n- Removed Link Shortner for sharing. (Existing Links will still work)\n- Now you can pick files from SD Card",
   "update_link": "https://sketchub.in",
   "payment_link": "https://www.paypal.me/rohitkumargd",
   "java_link": "http://codehive.sketchub.in/api/"
