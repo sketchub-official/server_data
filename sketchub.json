@@ -8,5 +8,6 @@
   "update_message": "- Bugs Fixed\n- APK installation for Android 10+ removed because it is deprecated method.\n- Removed Link Shortner for sharing. (Existing Links will still work)\n- Now you can pick files from SD Card",
   "update_link": "https://sketchub.in",
   "payment_link": "https://www.paypal.me/rohitkumargd",
-  "java_link": "http://codehive.sketchub.in/api/"
+  "java_link": "http://codehive.sketchub.in/api/",
+  "play_store_link":"https://play.google.com/store/apps/details?id=in.sketchub.app"
 }
