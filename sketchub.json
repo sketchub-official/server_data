@@ -2,7 +2,7 @@
   "server_status": "true",
   "server_message": "Server maintenance break. Please be patient ;) \n[Progress: 90%, Expected time: 1 day]",
   "database_link": "https://sketchub.in/api/v1/",
-  "version": "31",
+  "version": "30",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
   "update_message": "(v2.12:)\n- Security increased, added protection from Ddos\n(v2.11:)\n- Error fixed while downloading in Android 10.\n- Added Downloader switch in settings which can be used if you are facing crash or lag while downloading projects.\n- Improved design in project page and profile edit activity (better design is coming for v3.0)\n- Integrated inbuilt file picker which now allows you to preview the images.\n- Sketchub was replacing projects when Sketchware project id reaches 1000 (fixed)\n- The profile picture was not updating due to cache problem (fixed)",
