@@ -3,7 +3,7 @@
   "server_message": "We are publishing an update. Please be patient ;)",
   "database_link": "https://sketchub.in/api/v1/",
   "version": "37",
-  "necessary_update_version": "35",
+  "necessary_update_version": "37",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
   "update_message": "PLEASE WAIT, NO UPDATE IS AVAILABLE YET, WE ARE JUST ABOUT TO PUBLISH IT :)",
