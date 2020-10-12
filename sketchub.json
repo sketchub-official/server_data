@@ -2,7 +2,7 @@
   "server_status": "false",
   "server_message": "We are publishing an update. Please be patient ;)",
   "database_link": "https://sketchub.in/api/v1/",
-  "version": "35",
+  "version": "36",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
   "update_message": "- Android 10 crash resolved\n\n- Logout button available in settings\n\n- Added reCaptcha",
