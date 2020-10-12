@@ -2,7 +2,7 @@
   "server_status": "true",
   "server_message": "We are publishing an update. Please be patient ;)",
   "database_link": "https://sketchub.in/api/v1/",
-  "version": "35",
+  "version": "37",
   "necessary_update_version": "35",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
