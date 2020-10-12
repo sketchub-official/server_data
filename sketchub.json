@@ -1,11 +1,11 @@
 {
-  "server_status": "false",
+  "server_status": "true",
   "server_message": "We are publishing an update. Please be patient ;)",
   "database_link": "https://sketchub.in/api/v1/",
   "version": "36",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
-  "update_message": "- Android 10 crash resolved\n\n- Logout button available in settings\n\n- Added reCaptcha",
+  "update_message": "- Fixed android 10 issue\n- Verified tick will also visible in profiles\n- ah yes, new logo",
   "update_link": "https://sketchub.in",
   "payment_link": "https://www.paypal.me/rohitkumargd",
   "java_link": "https://codehive.sketchub.in/api/",
