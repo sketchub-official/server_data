@@ -1,6 +1,6 @@
 {
-  "server_status": "true",
-  "server_message": "Server repair break, expected time: 1 day \nSorry for the inconvenience",
+  "server_status": "false",
+  "server_message": "Sorry for the inconvenience, Server is under maintenance.",
   "database_link": "https://sketchub.in/api/v1/",
   "version": "37",
   "necessary_update_version": "36",
