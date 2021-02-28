@@ -1,5 +1,5 @@
 {
-  "server_status": "false",
+  "server_status": "true",
   "server_message": "Server is under maintenance, please wait for few hours :)",
   "database_link": "https://sketchub.in/api/v1/",
   "version": "37",
