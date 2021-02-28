@@ -1,6 +1,6 @@
 {
   "server_status": "true",
-  "server_message": "Server is under maintenance, please wait for few hours :)",
+  "server_message": "Server is under maintenance again, please wait for few minutes :)",
   "database_link": "https://sketchub.in/api/v1/",
   "version": "37",
   "necessary_update_version": "36",
