@@ -21,4 +21,6 @@ ERR_EMAIL_PROVIDER_BANNED | The email provider is either not trusted or is remot
 ERR_ACCOUNT_ALREADY_EXISTS | If user is trying to create already existing account
 ERR_USERNAME_TAKEN | The username is already taken
 ERR_INTERNAL_EMAIL | Email servers are not working
-
+ERR_ACCESS_DENIED | The user dont have permission to do something
+ERR_INVALID_ARGUMENT | For example, trying to delete project which doesnt exists
+OK | Dont trust OK for request status, it is not always provided, try to work from "status" key in the object
