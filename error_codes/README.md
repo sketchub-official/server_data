@@ -12,6 +12,7 @@ ERR_DECRYPTION_FAILED | Recent encryption to emails and password is not done
 ERR_EMAIL_COOLDOWN | There is 5 minutes of email cooldown, but if you follow "message" it will give you accurate time left for sending next email. Still then ask user to check spam
 ERR_EMAIL_PROVIDER_BANNED | The email provider is either not trusted or is remote mail box provider
 ERR_EMPTY_PROJECT_DETAILS | Some project details are not provided while uploaded
+ERR_INVALID_CAPTCHA | Invalid Captcha Response
 ERR_INTERNAL_EMAIL | Email servers are not working
 ERR_INTERNAL_SERVER | Something is wrong on server side, ask support to fix the issue
 ERR_INVALID_ARGUMENT | For example, trying to delete project which doesnt exists
