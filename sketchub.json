@@ -9,6 +9,7 @@
   "update_message": "What's New:\n- Minor bugs fixed\n- Ads rate reduced",
   "update_link": "https://sketchub.in",
   "project_share_link": "https://project.sketchub.in/?id={{PROJECT_ID}}",
+  "user_share_link": "https://web.sketchub.in/u/{{USER_NAME}}",
   "payment_link": "https://www.paypal.me/rohitkumargd",
   "java_link": "https://codehive.sketchub.in/api/",
   "play_store_link": "https://play.google.com/store/apps/details?id=in.sketchub.app"
