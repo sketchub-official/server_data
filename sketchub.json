@@ -3,6 +3,8 @@
   "server_message": "Nothing to see here",
   "database_link": "https://sketchub.in/api/v1/",
   "version": "37",
+  "category_version": "1",
+  "project_type_version": "1",
   "necessary_update_version": "36",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
