@@ -8,6 +8,7 @@ ERR_ACCOUNT_BANNED | The user's account is banned, check "message" for ban reaso
 ERR_ACCOUNT_NOT_VERIFIED | The account user trying to access hasn't verified the email yet
 ERR_COMMENT_COOLDOWN | The user did too much comments, ask them to wait for few minutes
 ERR_COMMENTS_DISABLED | That specific project have disabled comments
+ERR_CONTAINS_BADWORD | One of the input contains bad word
 ERR_DECRYPTION_FAILED | Recent encryption to emails and password is not done
 ERR_EMAIL_COOLDOWN | There is 5 minutes of email cooldown, but if you follow "message" it will give you accurate time left for sending next email. Still then ask user to check spam
 ERR_EMAIL_PROVIDER_BANNED | The email provider is either not trusted or is remote mail box provider
