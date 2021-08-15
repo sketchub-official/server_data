@@ -1,6 +1,6 @@
 {
-  "server_status": "true",
-  "server_message": "Server break till 18th July",
+  "server_status": "false",
+  "server_message": "Server maintenance break for few minutes",
   "database_link": "https://sketchub.in/api/v2/",
   "version": "41",
   "category_version": "1",
