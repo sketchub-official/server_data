@@ -5,7 +5,7 @@
   "version": "41",
   "category_version": "1",
   "project_type_version": "1",
-  "necessary_update_version": "39",
+  "necessary_update_version": "41",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
   "update_message": "What's New:\n• Fixed various crashes\n• Fixed app icon not showing\n• Fixed the comment getting clear when changing user mention\n• Added download counter in project listing\n• Projects will be downloaded in Downloads folder in Android 10+ devices",
