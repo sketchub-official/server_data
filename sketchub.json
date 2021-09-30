@@ -1,6 +1,6 @@
 {
   "server_status": "false",
-  "server_message": "Server maintenance break, we will be right back!",
+  "server_message": "We're facing some server downtime, please wait while we fix the problem. Sorry for any inconvenience.",
   "database_link": "https://sketchub.in/api/v2/",
   "version": "41",
   "category_version": "1",
