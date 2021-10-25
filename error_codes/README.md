@@ -6,6 +6,7 @@ ERR_ACCOUNT_ALREADY_EXISTS | If user is trying to create already existing accoun
 ERR_ACCESS_DENIED | The user dont have permission to do something
 ERR_ACCOUNT_BANNED | The user's account is banned, check "message" for ban reason
 ERR_ACCOUNT_NOT_VERIFIED | The account user trying to access hasn't verified the email yet
+ERR_API_QUOTA_EXCEEDED | You have exceeded the API queries limit
 ERR_COMMENT_COOLDOWN | The user did too much comments, ask them to wait for few minutes
 ERR_COMMENTS_DISABLED | That specific project have disabled comments
 ERR_CONTAINS_BADWORD | One of the input contains bad word
@@ -28,7 +29,6 @@ ERR_PROFILE_NOT_FOUND | Profile/account not found
 ERR_PROJECT_NOT_FOUND | The project not exists
 ERR_PROJECT_PRIVATE | User dont have permission to view the project because it is private
 ERR_PROJECT_SLOTS_EXCEEDED | The user exceeded his slots, he/she need to upgrade his paid plans
-ERR_QUOTA_EXCEEDED | You have exceeded the API queries limit
 ERR_REPORT_COOLDOWN | Cooldown for abuse report
 ERR_SHA256_ACCESS_DENIED | Invalid SHA256
 ERR_SHA256_TIMESTAMP_EXPIRED | Token expired, please enable "Automatic adjust time" in settings of your device if you are facing this problem again
