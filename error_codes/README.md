@@ -7,6 +7,7 @@ ERR_ACCESS_DENIED | The user dont have permission to do something
 ERR_ACCOUNT_BANNED | The user's account is banned, check "message" for ban reason
 ERR_ACCOUNT_NOT_VERIFIED | The account user trying to access hasn't verified the email yet
 ERR_API_QUOTA_EXCEEDED | You have exceeded the API queries limit
+ERR_API_KEY_INVALID | The API key is invalid
 ERR_COMMENT_COOLDOWN | The user did too much comments, ask them to wait for few minutes
 ERR_COMMENTS_DISABLED | That specific project have disabled comments
 ERR_CONTAINS_BADWORD | One of the input contains bad word
