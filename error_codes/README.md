@@ -26,9 +26,11 @@ ERR_INVALID_USERNAME | The username contains invalid characters
 OK | Dont trust OK for request status, it is not always provided, try to work from "status" key in the object
 ERR_PROJECT_DETAILS_CHAR_EXCEEDED | Some project details increased its text limit
 ERR_PROJECT_FILES_NOT_FOUND | When project is uploaded but files are not
+ERR_PROJECT_ICON_SIZE_EXCEEDED | When project icon size is exceeded while uploading
 ERR_PROFILE_NOT_FOUND | Profile/account not found
 ERR_PROJECT_NOT_FOUND | The project not exists
 ERR_PROJECT_PRIVATE | User dont have permission to view the project because it is private
+ERR_PROJECT_SCREENSHOT_SIZE_EXCEEDED | When a project screenshot size is exceeded while uploading
 ERR_PROJECT_SIZE_EXCEEDED | The user have exceeded the limit of attachment size
 ERR_PROJECT_SLOTS_EXCEEDED | The user exceeded his slots, he/she need to upgrade his paid plans
 ERR_REPORT_COOLDOWN | Cooldown for abuse report
