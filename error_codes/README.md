@@ -29,6 +29,7 @@ ERR_PROJECT_FILES_NOT_FOUND | When project is uploaded but files are not
 ERR_PROFILE_NOT_FOUND | Profile/account not found
 ERR_PROJECT_NOT_FOUND | The project not exists
 ERR_PROJECT_PRIVATE | User dont have permission to view the project because it is private
+ERR_PROJECT_SIZE_EXCEEDED | The user have exceeded the limit of attachment size
 ERR_PROJECT_SLOTS_EXCEEDED | The user exceeded his slots, he/she need to upgrade his paid plans
 ERR_REPORT_COOLDOWN | Cooldown for abuse report
 ERR_SHA256_ACCESS_DENIED | Invalid SHA256
