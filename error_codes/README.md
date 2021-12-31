@@ -39,3 +39,4 @@ ERR_SHA256_TIMESTAMP_EXPIRED | Token expired, please enable "Automatic adjust ti
 ERR_JWT_TOKEN_EXPIRED | JWT Token expired
 ERR_TOO_MUCH_REQUESTS | These error may occur when user is using Sketchub too much, solve the captcha
 ERR_USERNAME_TAKEN | The username is already taken
+ERR_VERIFY_IP_MAIL | An IP verification email is sent
