@@ -34,8 +34,7 @@ ERR_PROJECT_SCREENSHOT_SIZE_EXCEEDED | When a project screenshot size is exceede
 ERR_PROJECT_SIZE_EXCEEDED | The user have exceeded the limit of attachment size
 ERR_PROJECT_SLOTS_EXCEEDED | The user exceeded his slots, he/she need to upgrade his paid plans
 ERR_REPORT_COOLDOWN | Cooldown for abuse report
-ERR_SHA256_ACCESS_DENIED | Invalid SHA256
-ERR_SHA256_TIMESTAMP_EXPIRED | Token expired, please enable "Automatic adjust time" in settings of your device if you are facing this problem again
+ERR_INVALID_APK_TOKEN | The apk is modified
 ERR_JWT_TOKEN_EXPIRED | JWT Token expired
 ERR_TOO_MUCH_REQUESTS | These error may occur when user is using Sketchub too much, solve the captcha
 ERR_USERNAME_TAKEN | The username is already taken
