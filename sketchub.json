@@ -8,7 +8,7 @@
   "necessary_update_version": "41",
   "web_dialog": "false",
   "web_dialog_url": "https://sketchub.in/dc_invite/",
-  "update_message": "What's New:\n• Fixed various crashes\n• Fixed app icon not showing\n• Fixed the comment getting clear when changing user mention\n• Added download counter in project listing\n• Projects will be downloaded in Downloads folder in Android 10+ devices",
+  "update_message": "• The app now support non-GMS devices\n• The project size limit increased from 20 MB to 100 MB\n• Comments and announcements will show time\n• Comments can be reported now\n• Sketchware manager is now available when offline\n• Improved badges information, project reporting and deleting confirmation layouts\n• Open projects with link directly without opening it through browser\n• Fixed many bugs\n• Changes in the privacy policy: https://sketchub.in/privacy_policy.html",
   "update_link": "https://sketchub.in",
   "project_share_link": "https://web.sketchub.in/p/{{PROJECT_ID}}",
   "user_share_link": "https://web.sketchub.in/u/{{USER_NAME}}",
