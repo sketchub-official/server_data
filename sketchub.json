@@ -2,7 +2,7 @@
   "server_status": "true",
   "server_message": "Server maintenance break for few minutes",
   "database_link": "https://sketchub.in/api/v2/",
-  "version": "41",
+  "version": "44",
   "category_version": "1",
   "project_type_version": "1",
   "necessary_update_version": "41",
